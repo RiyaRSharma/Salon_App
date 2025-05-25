@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "801646145871",
+    "project_id": "authenticationapp-4d348",
+    "storage_bucket": "authenticationapp-4d348.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801646145871:android:7b946005a0330cfdf4d53a",
+        "android_client_info": {
+          "package_name": "com.example.salon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801646145871-ng98mdfci8cjkjjjp2i1cubf843idstg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salon_app",
+            "certificate_hash": "f90128e5d6ee97fb0530f9501b5f5e125cfd4ddc"
+          }
+        },
+        {
+          "client_id": "801646145871-cavapbdopam8olllgk83jcdn72m3vvcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9kAJ_tZN3pw2CEC11sBYRnrmr00lBkFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801646145871-cavapbdopam8olllgk83jcdn72m3vvcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
